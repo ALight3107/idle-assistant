@@ -1,0 +1,23 @@
+# PyInstaller / build artifacts
+build/
+dist/
+*.spec
+
+# Built binaries
+dist_windows/
+dist_mac/
+*.exe
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
